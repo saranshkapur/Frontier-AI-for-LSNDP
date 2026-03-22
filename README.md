@@ -9,7 +9,10 @@ We survey six frontier techniques: AlphaEvolve-style LLM-guided program evolutio
 hierarchical deep reinforcement learning, OPRO-style LLM-as-optimizer, and simulation-based robust optimization. For each, we analyze which 
 specific computational bottleneck of LSNDP it addresses and where it falls short. We then propose a three-layer architecture — evolved 
 heuristics (AlphaEvolve), structural reasoning (multi-agent LLM with critic), and mathematical guarantees (column generation backbone) — that 
-synergistically combines these paradigms. We ground our analysis in the LINERLIB benchmark suite, the standard testbed for LSNDP research
+synergistically combines these paradigms. We ground our analysis in the LINERLIB benchmark suite, the standard testbed for LSNDP research.
+
+Below are details from the original Linerlib paper where the problem is forumated along with some data. This repo is suggesting use of modern AI techniques to solve this problem. The details are available in the paper called **'LSNDP_Frontier_AI_Paper.docx'**
+
 ------------------------------------
 
 LINERLIB
